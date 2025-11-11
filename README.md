@@ -7,7 +7,7 @@ This repository contains my networking practice labs using Cisco Packet Tracer.
 - VLAN Configuration
 - Static and Dynamic Routing
   
-- Explaination:
+## Explaination:
 These files include the real world scenarios like how switches works
 actually and how we sent packet to the routers and how we assign Ip
 Address to them.
